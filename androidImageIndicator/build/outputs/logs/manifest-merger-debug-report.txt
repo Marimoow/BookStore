@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:7:5-8:41
+	android:targetSdkVersion
+		ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
+		ADDED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml:7:5-8:41
+		INJECTED from /Users/marimoow/Desktop/BookStore/androidImageIndicator/src/main/AndroidManifest.xml
