@@ -1,7 +1,18 @@
 # BookStore
 
 ### This University Online Used Book Store is a student start-up at Central Univeristy of Finance and Economics.
-### About the details, see my website.
+### About the details, see my website https://type-z.github.io/elements.html.
+
+### The "University Used Books" app is mainly used to provide students with an online platform for buy and sell used books. On this platform, students can exchange and purchase second-hand books by publishing book information and attaching personal contact information.
+Main functions:
+1. Registration and login
+2. Main interface and classification interface
+The main interface displays all used books in chronological order. It is the first interface displayed after login.
+The classification interface is displayed by book type. You can quickly find the books you want by selecting the four categories of "computer, mathematics, economics and literature".
+3. Release idle books
+Publish the books you want to sell, fill in the book name, new and old status, book classification, price, contact information, etc.
+4. Personal Center
+Manage personal accounts, including personal information, password modification, favorites, logout, etc.
 
 ### Project Structure
 ```
